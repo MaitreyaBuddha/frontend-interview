@@ -8,7 +8,7 @@ You're welcome to use the framework, language, and build process you're most fam
 
 ## Your options:
 
-1. Start with one of the two provided subfolders,  `react-js` or `vanilla-js`. These are starting examples that you can use and build on top of.
+1. Start with one of the four provided subfolders,  `react-js`, `angular/angular-1`, `vue-js` or `vanilla-js`. These are starting examples that you can use and build on top of.
 2. Use a boilerplate like [create-react-app](https://github.com/facebookincubator/create-react-app), [angular-seed](https://github.com/angular/angular-seed), or [vue-webpack-boilerplate](https://github.com/vuejs-templates/webpack).
 3. Set up your own environment (Elm, Reason, ClojureScript... whatever you desire!)
 
